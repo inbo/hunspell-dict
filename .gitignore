@@ -1,8 +1,8 @@
+*.html
 .DS_Store
-.Rproj.user
-.Rhistory
 .RData
+.Rhistory
+.Rproj.user
 .Ruserdata
 .httr-oauth
-*.html
 docs

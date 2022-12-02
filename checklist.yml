@@ -4,11 +4,8 @@ allowed:
   warnings: []
   notes: []
 required:
-- CITATION
 - checklist
-- filename conventions
 - lintr
-- spelling
 spelling:
   default: en-GB
   ignore:
